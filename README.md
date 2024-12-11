@@ -177,11 +177,6 @@ plt.show()
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## Acknowledgments
 - **Qiskit Team**: For developing the Qiskit framework.
 - **IBM Quantum**: For providing open-source tools and simulators for quantum computing research.
